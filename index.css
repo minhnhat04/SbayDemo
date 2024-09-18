@@ -304,4 +304,19 @@
     font-size: 2rem;
     margin-top: 3rem;
   }
+  .f {
+    display: flex;
+    gap: 2rem;
+    width: 80%;
+    margin: auto;
+  }
+
+  .f-item {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+  }
+  .f_name {
+    font-size: 1rem;
+  }
 }

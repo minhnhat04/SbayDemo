@@ -316,6 +316,7 @@
   .f-item{
     display: flex;
     gap: 1rem;
+    align-items: center;
   }
   .f_name{
     font-size: 1rem;
